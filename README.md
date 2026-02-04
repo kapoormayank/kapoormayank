@@ -16,6 +16,8 @@ B.Tech CSE student at IP University<br><br>Backend is strong <br><br>🤝 I’m 
 ![](https://github-profile-trophy.vercel.app/?username=kapoormayank&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
+⭐ Feel free to explore my repositories and connect with me!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
